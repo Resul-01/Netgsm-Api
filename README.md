@@ -1,3 +1,3 @@
-# 🧾 PHP Netgsm api kullanımı
+# PHP Netgsm api kullanımı
 
 Netgsm apilerini kullanarak toplu veya tekil sms gönderebileceksiniz.
